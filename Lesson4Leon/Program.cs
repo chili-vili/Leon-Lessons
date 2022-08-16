@@ -12,12 +12,21 @@
 
         internal T? Fetch(string key)
         {
-            if (_cache.TryGetValue(key, out var value))
+            if (_cache.TryGetValue(key, out var cachedValue))
             {
-                return value;
+                if ((DateTime.Now - cachedValue.CreationTime).TotalSeconds < cachedValue.Timeout)
+                {
+                    return cachedValue.Value;
+                }
+                else
+                {
+                    return default;
+                }
             }
-
-            return default;
+            else
+            {
+                return default;
+            }
         }
     }
 
