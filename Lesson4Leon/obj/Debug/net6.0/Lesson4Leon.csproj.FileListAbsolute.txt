@@ -1,0 +1,5 @@
+C:\Users\Leon\Documents\Study\Lessons\Repos\Lesson4Leon\obj\Debug\net6.0\Lesson4Leon.csproj.AssemblyReference.cache
+C:\Users\Leon\Documents\Study\Lessons\Repos\Lesson4Leon\obj\Debug\net6.0\Lesson4Leon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Documents\Study\Lessons\Repos\Lesson4Leon\obj\Debug\net6.0\Lesson4Leon.AssemblyInfoInputs.cache
+C:\Users\Leon\Documents\Study\Lessons\Repos\Lesson4Leon\obj\Debug\net6.0\Lesson4Leon.AssemblyInfo.cs
+C:\Users\Leon\Documents\Study\Lessons\Repos\Lesson4Leon\obj\Debug\net6.0\Lesson4Leon.csproj.CoreCompileInputs.cache
