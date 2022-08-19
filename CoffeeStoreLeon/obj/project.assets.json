@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leon\\Documents\\Study\\Lessons\\Repos\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
+      "projectUniqueName": "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
       "projectName": "CoffeeStoreLeon",
-      "projectPath": "C:\\Users\\Leon\\Documents\\Study\\Lessons\\Repos\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
+      "projectPath": "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
       "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leon\\Documents\\Study\\Lessons\\Repos\\CoffeeStoreLeon\\obj\\",
+      "outputPath": "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
