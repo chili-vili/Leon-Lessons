@@ -5,7 +5,7 @@ namespace CoffeeStore.Domain
     {
         public Guid Id {get;}
 
-        public ProductType productType {get;}
+        public ProductType ProductType {get;}
 
         public string Name {get;} = string.Empty;
 

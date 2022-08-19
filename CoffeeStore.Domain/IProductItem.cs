@@ -4,7 +4,7 @@
     { 
     
         Guid Id { get; }
-        ProductType productType { get; }
+        ProductType ProductType { get; }
         string Name { get; }
         decimal VendorPrice { get; }
         decimal SellingPrice { get; }

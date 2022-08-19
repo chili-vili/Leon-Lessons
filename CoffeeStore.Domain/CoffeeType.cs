@@ -1,6 +1,6 @@
 ﻿namespace CoffeeStore.Domain
 {
-    internal enum CoffeeType
+    public enum CoffeeType
     {
         Arabica=0,
         Robus=1
