@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {}
+    "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {
+    "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
+        "projectUniqueName": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
         "projectName": "CoffeeStoreLeon",
-        "projectPath": "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
-        "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\obj\\",
+        "projectPath": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
+        "packagesPath": "C:\\Users\\leonid.gulevskiy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\leonid.gulevskiy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
