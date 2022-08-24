@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeStore.Domain", "..\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeStore.DataAccess", "..\CoffeeStore.DataAccess\CoffeeStore.DataAccess.csproj", "{5BAD6F61-B70B-49DA-877D-2E534C3F8696}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeStore.Terminal", "..\CoffeeStore.Terminal\CoffeeStore.Terminal.csproj", "{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,26 @@ Global
 		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x64.Build.0 = Release|Any CPU
 		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x86.ActiveCfg = Release|Any CPU
 		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x86.Build.0 = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|ARM.Build.0 = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|x64.Build.0 = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Debug|x86.Build.0 = Debug|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|ARM.ActiveCfg = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|ARM.Build.0 = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|ARM64.Build.0 = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|x64.Build.0 = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C386CCB-7FCF-4246-A2B3-A01EA1BEB507}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
