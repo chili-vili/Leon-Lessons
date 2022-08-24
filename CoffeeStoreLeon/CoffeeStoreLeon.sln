@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeStoreLeon", "CoffeeStoreLeon.csproj", "{38CB9295-DEE4-4693-B6BA-F72BAB337378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeStoreLeon", "CoffeeStoreLeon.csproj", "{38CB9295-DEE4-4693-B6BA-F72BAB337378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeStore.Domain", "..\CoffeeStore.Domain\CoffeeStore.Domain.csproj", "{3C03DD41-88F2-4FD4-AA38-5BCE985B5422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeStore.Domain", "..\CoffeeStore.Domain\CoffeeStore.Domain.csproj", "{3C03DD41-88F2-4FD4-AA38-5BCE985B5422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeStore.DataAccess", "..\CoffeeStore.DataAccess\CoffeeStore.DataAccess.csproj", "{5BAD6F61-B70B-49DA-877D-2E534C3F8696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,26 @@ Global
 		{3C03DD41-88F2-4FD4-AA38-5BCE985B5422}.Release|x64.Build.0 = Release|Any CPU
 		{3C03DD41-88F2-4FD4-AA38-5BCE985B5422}.Release|x86.ActiveCfg = Release|Any CPU
 		{3C03DD41-88F2-4FD4-AA38-5BCE985B5422}.Release|x86.Build.0 = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|ARM.Build.0 = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|x64.Build.0 = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Debug|x86.Build.0 = Debug|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|ARM.ActiveCfg = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|ARM.Build.0 = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|ARM64.Build.0 = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x64.ActiveCfg = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x64.Build.0 = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x86.ActiveCfg = Release|Any CPU
+		{5BAD6F61-B70B-49DA-877D-2E534C3F8696}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
