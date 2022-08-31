@@ -1,5 +1,4 @@
-﻿
-namespace Lesson8Leon
+﻿namespace Lesson8Leon
 {
     abstract class AddressBuilder
     {
