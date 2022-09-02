@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "luvy3OfZU5d4lqL6DmK9Dd2zlocKImBQgG+LXnJlhLDPtDmNiaa73qJogyn1KlVya798TX5pQGTQEO2BHKX35g==",
+  "dgSpecHash": "26y7VbYY3purKJPTTkrtRALkzqzJ6q3GGGTxVHR/ChgU6Fyxsn82Ad2nM0gYN4St/+G9Gecir7qjn5divp5Jwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStore.Domain\\CoffeeStore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\leonid.gulevskiy\\source\\repos\\Leon-Lessons\\CoffeeStore.Domain\\CoffeeStore.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

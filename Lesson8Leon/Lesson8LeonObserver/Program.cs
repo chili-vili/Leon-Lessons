@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            NumberProcessor numberProcessor = new NumberProcessor();
+            Listener1 listener1 = new Listener1(numberProcessor);
+            Listener2 listener2 = new Listener2(numberProcessor);
+            numberProcessor.OnNumbersEntered();
+            Console.Read();
         }
     }
 }

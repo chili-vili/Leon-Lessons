@@ -1,15 +1,14 @@
-﻿using System;
-
-namespace Lesson8LeonObserver
+﻿namespace Lesson8LeonObserver
 {
-    class NumberProcessor : IOBservable
+    class NumberProcessor : IObservable
     {
+        EnterNumber number;
         List<IObserver> observers;
-        private object numbers;
 
         public NumberProcessor()
         {
             observers = new List<IObserver>();
+            number = new EnterNumber();
         }
         public void RegisterObserver(IObserver observer)
         {
@@ -24,13 +23,18 @@ namespace Lesson8LeonObserver
         {
             foreach (IObserver observer in observers)
             {
-                observer.Update(numbers);
+                observer.Update(number);
             }
         }
         public void OnNumbersEntered()
         {
             Console.WriteLine("Введите ряд чисел через пробел");
-            Array numbers = (Array)Console.ReadLine().Split().Select(int.Parse);
+            string[] s = Console.ReadLine().Split(' ');
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (int.TryParse(s[i], out int k))
+                number.list.Add(k);
+            }
             NotifyObserver();
         }
     }

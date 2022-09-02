@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {}
+    "C:\\Users\\leonid.gulevskiy\\source\\repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {
+    "C:\\Users\\leonid.gulevskiy\\source\\repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
+        "projectUniqueName": "C:\\Users\\leonid.gulevskiy\\source\\repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
         "projectName": "CoffeeStoreLeon",
-        "projectPath": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
+        "projectPath": "C:\\Users\\leonid.gulevskiy\\source\\repos\\Leon-Lessons\\CoffeeStoreLeon\\CoffeeStoreLeon.csproj",
         "packagesPath": "C:\\Users\\leonid.gulevskiy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\leonid.gulevskiy\\Source\\Repos\\Leon-Lessons\\CoffeeStoreLeon\\obj\\",
         "projectStyle": "PackageReference",

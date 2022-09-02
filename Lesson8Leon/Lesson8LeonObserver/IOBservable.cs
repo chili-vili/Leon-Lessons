@@ -1,6 +1,6 @@
 ﻿namespace Lesson8LeonObserver
 {
-    interface IOBservable
+    interface IObservable
     {
         void RegisterObserver(IObserver observer);
         void RemoveObserver(IObserver observer);

@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Lesson8LeonObserver
+﻿namespace Lesson8LeonObserver
 {
-    internal class Listener1 : IObserver
+    internal class Listener2 : IObserver
     {
         IObservable numberProcessor;
-  
-        public Listener1(IObservable numberProcessor1)
+
+        public Listener2(IObservable numberProcessor1)
         {
             numberProcessor = numberProcessor1;
             numberProcessor.RegisterObserver(this);
@@ -15,7 +13,8 @@ namespace Lesson8LeonObserver
         public void Update(object ob)
         {
             EnterNumber number = (EnterNumber)ob;
-            Console.WriteLine(number.list.Sum());
+            number.list.Reverse();
+            foreach (var numb in number.list) Console.Write(numb+" ");
         }
     }
 }
